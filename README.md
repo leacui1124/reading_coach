@@ -46,7 +46,10 @@
 ### 前提条件
 - 已安装支持 Skill 的 AI 代理（OpenClaw、Claude Code 等）
 
-### 方法一：从 GitHub 安装（推荐）
+### 方法一：下载到AI代理（Open Claw/Claude Code）（推荐）
+阅读 https://github.com/leacui1124/reading_coach 并安装 reading_coach
+
+### 方法二：从 GitHub 安装
 
 1. 克隆本仓库：
    ```bash
@@ -60,7 +63,7 @@
 
 3. 重启 AI 代理，在对话框输入 `/reading_coach` 验证安装成功。
 
-### 方法二：手动安装
+### 方法三：手动安装
 
 1. 下载本仓库的 ZIP 文件，解压得到 `reading_coach` 文件夹
 
